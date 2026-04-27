@@ -136,6 +136,7 @@ Tanks are named "*prefix*-*diameter*-*volume* 'nice' name".
 - *TF* -- Fuel Decoupler
 - *TS* -- (stack) separater (c.f. *TD*)
 - *TT* or *TY-RD* -- radial decoupler (*TT* us also used for launch supports)
+- **U-NUK** -- Radioisotope Themoelectric Generators (RTG's)
 - *Wing* -- Modular Wings (c.f. *AV* and *XL*)
 - *WR* -- Reaction Wheels / Gyroscope
 - *WZ* -- Tail Connector (the opposite of a "nose cone")
