@@ -149,7 +149,7 @@ engines, as a rule, do not function in atmosphere.
 ### Exotics (aka "Others")
 
 The prefix *IZ* is used for "non-typical" deep space engines; think futuristic
-torch drives and the like, and often use exotic fuels. These are names the same
+torch drives and the like, and often use exotic fuels. These are named the same
 as Deep Space engines (which are named the same as Orbital engines), that is to
 say (using vacuum values):
 
@@ -192,10 +192,10 @@ Tanks are named "*prefix*-*diameter*-*volume* 'nice' name".
 
 ## Other Parts
 
-- *Adapter* -- Adaptor Plates. Multiple sizes are split by a vertical bar, listed from smallest to largest, e.g. "Adapter 50-12|25|37"
+- *Adapter* -- Adapter Plates. Multiple sizes are split by a vertical bar, listed from smallest to largest, e.g. "Adapter 50-12|25|37"
 - *AE-FF* -- Fairings
 - *AN* -- Nose Cone
-- *AV* -- Fins and (Basic) Wings. Number is "realive wing area" x 10. (c.f. *Wing* and *XL*)
+- *AV* -- Fins and (Basic) Wings. Number is "relative wing area" x 10. (c.f. *Wing* and *XL*)
     - *AV-B* -- basic fins
     - *AV-D* -- 
     - *AV-R* -- 
